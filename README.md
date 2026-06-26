@@ -13,6 +13,10 @@ Cross-Platform: Works on both Linux and Windows.
 Installation & Running
 For Windows users
 
+Go to the Releases page
+
+Download the exe file
+
 Double-click DesktopCat.exe to run.
 
 For Linux (Lubuntu) Users
