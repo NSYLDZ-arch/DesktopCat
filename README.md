@@ -1,6 +1,8 @@
 DesktopCat 🐱
 A cute, interactive desktop pet that lives on your screen! It walks, runs, eats, and occasionally gets a little dizzy.
 
+THIS IS MY FIRST GITHUB POST AND NAVIGATING THE POST MIGHT BE HARD. PLEASE DO NOT COMPLAIN.
+
 Features
 Interactive: Feed the cat treats (🐟) and watch it hunt!
 
@@ -50,3 +52,4 @@ This project was built using PyQt5 and Pillow.
 
 License
 This project is licensed under the MIT License. Feel free to modify, share, and improve the cat!
+I would love to see better verions of my DesktopCat!
