@@ -17,7 +17,7 @@ Cross-Platform: Works on both Linux and Windows.
 Installation & Running
 For Windows users
 
-Go to the Releases page
+Go to the Releases page https://github.com/NSYLDZ-arch/DesktopCat/releases/tag/1.0.0
 
 Download the exe file (and other png file)
 
