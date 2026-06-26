@@ -3,6 +3,8 @@ A cute, interactive desktop pet that lives on your screen! It walks, runs, eats,
 
 THIS IS MY FIRST GITHUB POST AND NAVIGATING THE POST MIGHT BE HARD. PLEASE DO NOT COMPLAIN.
 
+Credits: Credits to LuizMelo For the Cute Cat Animations Check out the Cat pack They made at https://luizmelo.itch.io/pet-cat-pack?download
+
 Features
 Interactive: Feed the cat treats (🐟) and watch it hunt!
 
