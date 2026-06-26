@@ -15,7 +15,9 @@ For Windows users
 
 Go to the Releases page
 
-Download the exe file
+Download the exe file (and other png file)
+
+put the png files in an animtions folder
 
 Double-click DesktopCat.exe to run.
 
